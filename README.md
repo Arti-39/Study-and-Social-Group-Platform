@@ -44,4 +44,3 @@
    - 전체 플랫폼에 대한 통계 확인 기능
 
 ## ERD
-![erd](https://github.com/Arti-39/Study-and-Social-Group-Platform/blob/main/doc/img/erd.png)
